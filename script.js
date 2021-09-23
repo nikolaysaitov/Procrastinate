@@ -4,7 +4,7 @@ let phrases = [
   { text: 'разобраться, о чём поют рэперы', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
   { text: 'Юрий будет Дудь', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },
   { text: 'Пурумпумпум', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
-  { text: 'смотреть как разводят мосты', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
+  { text: 'смотреть как разводят мосты в СПб', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
   { text: 'прочитать новости и ужаснуться от того, что Россия помогает Талибану(запрещенному на территории РФ)', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
   { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
   { text: 'посмотреть трейлер сериала и заодно первые 3 сезона', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
